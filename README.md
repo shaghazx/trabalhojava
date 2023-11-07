@@ -1,6 +1,0 @@
-# Javascrip
-
-
-
-
-<img>
